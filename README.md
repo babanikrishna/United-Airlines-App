@@ -4,7 +4,7 @@ A beautiful SwiftUI recreation of a flight ticket interface, featuring Apple's *
 
 ![Swift](https://img.shields.io/badge/Swift-6.1-orange.svg)
 ![iOS](https://img.shields.io/badge/iOS-26.0+-blue.svg)
-![Xcode](https://img.shields.io/badge/Xcode-16.0+-blue.svg)
+![Xcode](https://img.shields.io/badge/Xcode-26.0+-blue.svg)
 
 ## Design Inspiration
 
