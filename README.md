@@ -2,10 +2,9 @@
 
 A beautiful SwiftUI recreation of a flight ticket interface, featuring Apple's **Liquid Glass** design language for a modern, premium user experience.
 
-![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
-![iOS](https://img.shields.io/badge/iOS-17.0+-blue.svg)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-green.svg)
-![Xcode](https://img.shields.io/badge/Xcode-15.0+-blue.svg)
+![Swift](https://img.shields.io/badge/Swift-6.1-orange.svg)
+![iOS](https://img.shields.io/badge/iOS-26.0+-blue.svg)
+![Xcode](https://img.shields.io/badge/Xcode-16.0+-blue.svg)
 
 ## Design Inspiration
 
@@ -48,7 +47,7 @@ MeshGradient(
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
