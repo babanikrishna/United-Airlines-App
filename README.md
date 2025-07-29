@@ -59,4 +59,4 @@ This project is licensed under the MIT License
 
 **Built with ❤️ using SwiftUI and Liquid Glass**
 
-*This is a UI recreation project for educational and portfolio purposes.* 
+*This is a UI recreation project for learning purposes.* 
